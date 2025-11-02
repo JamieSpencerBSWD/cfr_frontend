@@ -1,6 +1,6 @@
 .search-results {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     margin: 0px 10px;
     gap: 10px;
     padding-top: 100px;
